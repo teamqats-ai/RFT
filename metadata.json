@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Hệ Thống Báo Cáo QC RFT Nhà Máy May Giày",
+  "description": "Ứng dụng Mobile-First dành cho nhân viên QC nhà máy may/giày để đánh giá, nhập báo cáo RFT theo 5 công đoạn và đồng bộ Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
